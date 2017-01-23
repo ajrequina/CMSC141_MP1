@@ -1,1 +1,1 @@
-# CMSC141_MP1
+# A program that asks an input file with C statements namely variable declarations, function declarations, and function definitions and have an output file that states whether each snippet of code is valid definition or declaration or not.  
