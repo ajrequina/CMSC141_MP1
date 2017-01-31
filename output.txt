@@ -1,0 +1,6 @@
+Valid variable declaration
+Invalid variable declaration
+Valid function declaration
+Invalid function declaration
+Valid function definition
+Invalid function definition

@@ -1,0 +1,36 @@
+PASSED
+PASSED
+PASSED
+PASSED
+PASSED
+PASSED
+PASSED
+PASSED
+PASSED
+PASSED
+PASSED
+FAILED: SHOULD BE (valid variable declaration)
+NO RESULT: SHOULD BE (valid variable declaration)
+NO RESULT: SHOULD BE (valid variable declaration)
+NO RESULT: SHOULD BE (valid variable declaration)
+NO RESULT: SHOULD BE (valid variable declaration)
+NO RESULT: SHOULD BE (valid variable declaration)
+NO RESULT: SHOULD BE (valid variable declaration)
+NO RESULT: SHOULD BE (valid variable declaration)
+NO RESULT: SHOULD BE (invalid variable declaration)
+NO RESULT: SHOULD BE (invalid variable declaration)
+NO RESULT: SHOULD BE (invalid variable declaration)
+NO RESULT: SHOULD BE (invalid variable declaration)
+NO RESULT: SHOULD BE (invalid variable declaration)
+NO RESULT: SHOULD BE (invalid variable declaration)
+NO RESULT: SHOULD BE (invalid variable declaration)
+NO RESULT: SHOULD BE (invalid variable declaration)
+NO RESULT: SHOULD BE (invalid variable declaration)
+NO RESULT: SHOULD BE (invalid variable declaration)
+NO RESULT: SHOULD BE (invalid variable declaration)
+NO RESULT: SHOULD BE (invalid variable declaration)
+NO RESULT: SHOULD BE (invalid variable declaration)
+NO RESULT: SHOULD BE (invalid variable declaration)
+NO RESULT: SHOULD BE (invalid variable declaration)
+NO RESULT: SHOULD BE (valid variable declaration)
+NO RESULT: SHOULD BE (invalid variable declaration)

@@ -1,0 +1,97 @@
+char a   =   0; 
+char b   = 'b';
+char c   =   'c';
+char d,   aa;
+char bb  ,    cc = 'bb';
+int   e   =   '9';
+int f = 89;
+int g = a;
+boolean   h   =   true;
+boolean i   =  a  ;
+boolean j  =   false;
+boolean k   =  1;
+boolean l   =   0;
+float  m   =   1.0;
+float n = 1;
+double o   = 1.0;
+double p   =  1;
+long q  =  1000;
+long r  =  'r';
+char a  = 1;
+Char s  =  'ii';
+char t  =  1.0;
+char u  =  oops;
+charw;
+char x, y
+char z,;
+char dd = 'dd';
+char;
+int ee = 'ee';
+int ff = 'f'
+int gg = 1.0;
+int hh
+int;
+boolean ii = True;
+boolean jj = TRUE;
+boolean kk =  tRuE;
+boolean ll = -1;
+boolean mm = 3;
+Boolean nn = true;
+boolean oo =;
+boolean pp 
+float boolean = 9;
+float qq = 1..0;
+float rr = 1.0.;
+float ss = '4';
+double tt = 1..0;
+double uu = 1.0.;
+double vv = 'il';
+long ww = ..0;
+long xx =;
+int function1 ( int a1 ) ;
+int function2 ( int a2 , int b2 ) ;
+int function3 ( ) ;
+boolean function4 ( boolean a4 , boolean b4 );
+boolean function5 ( boolean a5 , boolean b5 );
+boolean function6 ( boolean a6 );
+boolean function7 ( );
+void function8();
+intfunction ();
+int function8(;
+int function9);
+int function10(
+int yy = 0;
+int;
+void function11(boolean);
+void function12(boolean)
+void function13(boolean a13, );
+void function14(boolean a14, int boolean);
+int functionA( int i ){
+	return 1;
+}
+int functionB( int  i )          {
+	return i * i;
+}
+int functionC( int  i )     {
+	return i + i + 1;
+}
+int functionD ( int  i )   {
+	return  i  -  i   ;
+}
+int functionE( int i, int j ) {
+	return j / i + j - i;
+}
+void functionF(int i, int j){}
+void functionG(int i, int j){
+	return;
+}
+
+void functionH(int i, int j, int k) {
+	int l = k;
+}
+
+int functionI(int i, int j) {
+	int m = i;
+	int n = 0;
+	return m * n + n + i / j + 9;
+}
