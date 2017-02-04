@@ -1,6 +1,12 @@
-int y
-int 
-z
-=
-=
-9;
+int b[6] = {99999,7,'5'}, c, d,;
+int g;
+char c
+int x;
+int function( int i[], int k[], int h){
+	
+}
+
+
+
+
+
